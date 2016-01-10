@@ -8,7 +8,7 @@ str(activityData)
 ##  $ date    : Date, format: "2012-10-01" "2012-10-01" ...
 ##  $ interval: int  0 5 10 15 20 25 30 35 40 45 ...
 
-![Alt text](http://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+![Alt text](C:/Users/lw/Desktop/download.png "The Stormtroopocat")
   
       !
 
